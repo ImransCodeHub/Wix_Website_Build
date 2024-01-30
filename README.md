@@ -10,6 +10,13 @@ The goal of this project was to design and develop a photography blog webpage us
 
 For a better view of the webpage, visit the following link: [CandleColour Photography Blog](https://imranmoin1234.wixsite.com/candlecolour)
 
+## Screenshots
+
+![Screenshot 2024-01-30 035314](https://github.com/ImransCodeHub/Website_Competition/assets/97769980/54dcc757-b03a-4f1d-bec7-db716fb201b1)
+![Screenshot 2024-01-30 035354](https://github.com/ImransCodeHub/Website_Competition/assets/97769980/f25ebab4-7aac-483d-aa62-2b8e6b0a2cd6)
+![Screenshot 2024-01-30 035541](https://github.com/ImransCodeHub/Website_Competition/assets/97769980/6b358c49-dc8b-43d1-bfd0-2c9b47210056)
+![Screenshot 2024-01-30 035519](https://github.com/ImransCodeHub/Website_Competition/assets/97769980/13f3949b-f378-4010-b702-89afca928d1f)
+
 ## Competition Results
 
 - **Date:** November 2021
